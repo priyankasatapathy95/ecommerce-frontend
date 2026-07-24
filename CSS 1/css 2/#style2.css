@@ -1,0 +1,16 @@
+#box1{
+height:100px;
+width:100px;
+background-color: green;
+}
+#box2{
+    height:50px;
+    width:30%;
+    background-color: yellow;
+}
+div{
+    height:100px;
+    width:100px;
+    background-image:url("nature.image.jpg") ;
+    background-size: cover;
+}
