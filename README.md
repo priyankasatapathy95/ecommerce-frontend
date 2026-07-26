@@ -49,11 +49,6 @@ ecommerce-frontend/
 │
 ├── images/
 │
-├── screenshots/
-│   ├── home.png
-│   ├── featured-products.png
-│   └── collections.png
-│
 └── README.md
 ```
 
