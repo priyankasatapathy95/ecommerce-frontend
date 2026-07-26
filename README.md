@@ -59,19 +59,6 @@ Rymo-Ecommerce/
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-
-![Home Page](screenshots/home.png)
-
----
-
-### ⭐ Featured Products
-
-![Featured Products](screenshots/featured-products.png)
-
----
 
 ## 💻 Getting Started
 
