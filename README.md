@@ -1,4 +1,4 @@
-# 🛍️ Rymo - E-Commerce Frontend
+# 🛍️ E-Commerce Frontend
 
 A modern, responsive, and visually appealing e-commerce website frontend built using **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**. This project showcases a clean shopping interface with featured products, promotional banners, brand highlights, and a responsive layout for a seamless user experience across different devices.
 
@@ -32,7 +32,7 @@ A modern, responsive, and visually appealing e-commerce website frontend built u
 ## 📂 Project Structure
 
 ```text
-Rymo-Ecommerce/
+ecommerce-frontend/
 │
 ├── index.html
 ├── shop.html
@@ -65,13 +65,13 @@ Rymo-Ecommerce/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/priyankasatapathy95/rymo-ecommerce.git
+git clone https://github.com/priyankasatapathy95/ecommerce-frontend.git
 ```
 
 ### Navigate to the Project Folder
 
 ```bash
-cd rymo-ecommerce
+cd ecommerce-frontend
 ```
 
 ### Run the Project
